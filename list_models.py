@@ -1,6 +1,6 @@
 import requests
 
-# API_KEY = "AIzaSyAUs1b0QQouCQzz00Rwt6Bz75IALgNQ0YM"   # <-- paste your real Gemini API key here
+# API_KEY = ""   # <-- paste your real Gemini API key here
 
 endpoint = "https://generativelanguage.googleapis.com/v1/models"
 params = {"key": API_KEY}
