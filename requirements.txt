@@ -1,0 +1,16 @@
+# Core libraries
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+python-dotenv
+streamlit_lottie
+
+# Google Gemini API
+google-generativeai
+
+# Optional utilities (safe to keep)
+openpyxl        # For Excel file reading/writing
+requests
